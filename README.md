@@ -215,10 +215,7 @@ Now in build step. Add build step as eecute shell and write the following comman
 
 save it and click on build now to run the job.
 
-It worked successfully. No you can check in other tab with public IP and port number if the app is running.
-
-
-
 Great your web app is running and Our Project is Completed with that.
 
 I have wirrten whole blog explain every bit which can be accessed at 
+https://www.linkedin.com/pulse/django-app-deployment-ec2-instance-using-docker-amit-choudhary/?published=t&trackingId=uIaeWyCfRsiqjZNv3QnGaQ%3D%3D
